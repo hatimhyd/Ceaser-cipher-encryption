@@ -1,2 +1,2 @@
 # Ceaser-cipher-encryption
-This is a ceaser cipher encryption/decryption program using python
+This is a simple ceaser cipher encryption/decryption program using python
